@@ -34,10 +34,5 @@
 "apis": {
     "rest": [{"address": "https://emerynet.api.agoric.net:443"} ],
     "rpc": [{"address": "https://emerynet.rpc.agoric.net:443"} ]
-},
-"logoURIs": [
-    "/public/logo/agoric.svg",
-    "/public/logo/agoric.png"
-  ]
-  
+}  
 }
